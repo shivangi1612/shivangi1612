@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi!
 $ whoami<br>Shivangi Singh - Frontend Developer | CS Undergrad<br><br>$ cat about.txt<br>I'm currently based in Bengaluru, India where I build the web.<br><br>$ cat interests.txt<br>Exploring new tech, contributing to open source, writing clean code, and helping the dev community.<br><br>$ exit<br>Goodbye 👋
 
 
@@ -21,8 +21,6 @@ $ whoami<br>Shivangi Singh - Frontend Developer | CS Undergrad<br><br>$ cat abou
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shivangi1612&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=shivangi1612&icon=9&color=1)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivangi1612/shivangi1612/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivangi1612/shivangi1612/output/github-snake.svg" />
